@@ -11,9 +11,10 @@
 ahmednasseradli/ahmednasseradli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- 
+ 
 <a href="https://twitter.com/https://twitter.com/a7mad_72000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/a7mad_72000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-fouda-710009187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-fouda-710009187/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ahmad.hamdy2388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmad.hamdy2388" height="30" width="40" /></a>
