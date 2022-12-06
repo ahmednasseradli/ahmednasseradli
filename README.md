@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <p align="center">Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.</p>
-<ul style='list-style:none;'>
-  <li>
-    <p align="left"> <a href="https://linkedin.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmednasseradli" /></a> </p>
-  </li>
-  <p align="left"> <a href="https://facebook.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ahmednasseradli" /></a> </p>
-  <li>
-    <p align="left"> <a href="https://instagram.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmednasseradli" /></a> </p>
-  </li>  <li>
-<p align="left"> <a href="https://leetcode.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ahmednasseradli" /></a> </p>
-  </li>
-</ul>
+<div>
+  <h3 align="left">Connect with me:</h3>
+   <a href="https://linkedin.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmednasseradli" /></a>
+ <a href="https://facebook.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ahmednasseradli" /></a>
+    <a href="https://instagram.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmednasseradli" /></a> 
+ <a href="https://leetcode.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ahmednasseradli" /></a>
+   <a href="https://youtube.com/helloworld" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ahmednasseradli" /></a>
+</div>
 
 - 🔭 I’m currently working on **Khamsat Clone**
 
@@ -24,14 +21,6 @@
 
 - ⚡ Fun fact **I'm artist**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmednasseradli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmednasseradli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmednasseradli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmednasseradli" height="30" width="40" /></a>
-<a href="https://fb.com/ahmednasseradli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmednasseradli" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmednasseradli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmednasseradli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hello coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmednasseradli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmednasseradli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
