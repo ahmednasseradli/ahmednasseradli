@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <p align="center">Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.</p>
-
-<p align="left"> <a href="https://linkedin.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmednasseradli" /></a> </p>
-
-<p align="left"> <a href="https://facebook.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ahmednasseradli" /></a> </p>
-
-<p align="left"> <a href="https://instagram.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmednasseradli" /></a> </p>
-
-<p align="left"> <a href="https://leetcode.com/ahmednasseradli" target="blank"><img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ahmednasseradli" /></a> </p>
+<ul style='list-style:none;'>
+  <li>
+    <p align="left"> <a href="https://linkedin.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmednasseradli" /></a> </p>
+  </li>
+  <p align="left"> <a href="https://facebook.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ahmednasseradli" /></a> </p>
+  <li>
+    <p align="left"> <a href="https://instagram.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmednasseradli" /></a> </p>
+  </li>  <li>
+<p align="left"> <a href="https://leetcode.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ahmednasseradli" /></a> </p>
+  </li>
+</ul>
 
 - 🔭 I’m currently working on **Khamsat Clone**
 
