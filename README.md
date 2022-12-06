@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <p align="center">Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.</p>
 
-<p align="left"> <a href="https://twitter.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/twitter/follow/ahmednasseradli?logo=twitter&style=for-the-badge" alt="ahmednasseradli" /></a> </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ahmednasseradli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/ahmednasseradli?trk=profile-badge">Ahmed Nasser</a></div>
-              
+<p align="left"> <a href="https://linkedin.com/ahmednasseradli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmednasseradli" /></a> </p>
+      
 - 🔭 I’m currently working on **Khamsat Clone**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmednasseradli](https://github.com/ahmednasseradli)
